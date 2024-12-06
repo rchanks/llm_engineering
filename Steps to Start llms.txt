@@ -5,3 +5,5 @@ cd \users\richardh\llm\llm_engineering
 llms\Scripts\activate
 jupyter lab
 http://localhost:8888/lab?token=45ec0c063c7e7a9a43572878513bde53ba3aef86e55effc1
+after clearing out the directory, I had to rerun the following:
+pip install -r requirements.txt
